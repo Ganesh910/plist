@@ -1,0 +1,10 @@
+{
+    "name":"YouTube Playlist Time Calculator",
+    "version": "1.0.0",
+    "description":"It can calculate the total time duration of a Playlist when Playlist URL is added",
+    "author":"PandeyGanesha",
+    "action":{
+        "default_popup":"index.html",
+        "default_title": "YT Playlist Time Calculator"
+    }
+}
